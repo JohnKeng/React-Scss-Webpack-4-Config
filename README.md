@@ -1,4 +1,4 @@
-# ReactScssWebpack4Config
+# React Scss Webpack4 Config
 The webpack.config.js optimized bundle based on best practices.
 
 install dependencies
