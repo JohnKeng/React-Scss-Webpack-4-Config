@@ -27,4 +27,5 @@ npm install react react-dom moment lodash
 }
 ```
 
-2. Create folders src and dist and create your index.js file in src folder and index.html in the dist folder
+2. webpack -p
+
